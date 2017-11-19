@@ -11,5 +11,7 @@
 
 The project is based on the vuejs webpack template.
 
+Also includes how to build materialize sass files and override the theme colours
+
 
 
