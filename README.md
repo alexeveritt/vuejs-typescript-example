@@ -4,6 +4,7 @@
 
 * Typescript
 * Vue-router
+* Vuex - Getters, Actions and Mutations
 * Single File Components
 * Materialize CSS
 * Page Transitions
