@@ -1,6 +1,10 @@
 # VueJS Typescript Demo
 
-> A work in progress example of how to create a VueJS app that includes the following features
+> This project is out of date. You should consider [NuxtJS](https://nuxtjs.org/) nowadays 
+
+A work in progress example of how to create a VueJS app that includes the following features
+
+
 
 * Typescript
 * Vue-router
